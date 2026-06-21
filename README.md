@@ -8,7 +8,7 @@
 ## Skills
 - C++
 - HTML
-- CSS
+- Python
 - Java
 - C
 
